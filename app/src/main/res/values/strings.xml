@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MovieMatch</string>
+    <string name="movie_poster">Plakat</string>
+    <string name="movie_title">Tytuł</string>
+    <string name="movie_overview">Podsumowanie</string>
+    <string name="movie_release_date">Data wydania</string>
+    <string name="popular_movies">Popular Movies</string>
 </resources>
