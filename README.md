@@ -1,2 +1,2 @@
 # MovieMatch
-Android application created with GPT
+Android application created with GPT and Github Copilot
